@@ -1,4 +1,4 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+![image](https://github.com/tnmsnhr/upstox/assets/14186307/abff41eb-876a-444f-b39c-a9994f5b21f5)This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
 
@@ -42,38 +42,13 @@ npm run ios
 yarn ios
 ```
 
-If everything is set up _correctly_, you should see your new app running in your _Android Emulator_ or _iOS Simulator_ shortly provided you have set up your emulator/simulator correctly.
+Screenshot:
+iOS:
+![simulator_screenshot_B63635C8-6946-4EAF-888B-973D0953381A](https://github.com/tnmsnhr/upstox/assets/14186307/64001565-33f6-4633-a46f-a420b3c38942)
+![simulator_screenshot_E1978ED7-BF31-4420-9D92-2141A0C3AD9C](https://github.com/tnmsnhr/upstox/assets/14186307/31c1abeb-8ee4-4f75-acaf-69dc16b47e06)
 
-This is one way to run your app — you can also run it directly from within Android Studio and Xcode respectively.
+Android:
 
-## Step 3: Modifying your App
 
-Now that you have successfully run the app, let's modify it.
-
-1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
-
-   For **iOS**: Hit <kbd>Cmd ⌘</kbd> + <kbd>R</kbd> in your iOS Simulator to reload the app and see your changes!
-
-## Congratulations! :tada:
-
-You've successfully run and modified your React Native App. :partying_face:
-
-### Now what?
-
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
-
-# Troubleshooting
-
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
-
-# Learn More
-
-To learn more about React Native, take a look at the following resources:
-
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+![Screenshot_20240630_161547](https://github.com/tnmsnhr/upstox/assets/14186307/89f3abdc-5916-4bd8-87a7-40915b37ab8b)
+![Screenshot_20240630_161606](https://github.com/tnmsnhr/upstox/assets/14186307/2299379d-ae44-4a02-80f5-a65ace72a21f)
